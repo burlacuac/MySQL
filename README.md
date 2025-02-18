@@ -27,5 +27,34 @@ Tool-ul folosit: dbdesigner.net<br/>
   ![Screenshot 2025-02-17 125433](https://github.com/user-attachments/assets/896d7b61-4956-4ea6-ac05-3997691892cc)<br/>
   ![Screenshot 2025-02-17 125500](https://github.com/user-attachments/assets/6f378695-93c8-4f6c-b222-8f575d45ac42)<br/>
 
+  3. Select every customer and sort their surnames in alphabetical order
+
+  ![Screenshot 2025-02-18 103544](https://github.com/user-attachments/assets/4f2e0c77-8219-4066-a599-8ed9d7233c4e)<br/>
+  ![Screenshot 2025-02-18 103641](https://github.com/user-attachments/assets/971d6570-2465-41ee-b966-dc7d0d3abca5)<br/>
+
+  4. Select the first 4 addresses
+
+  ![Screenshot 2025-02-18 103917](https://github.com/user-attachments/assets/183bef3f-0df7-409b-b889-14a618800adc)<br/>
+  ![Screenshot 2025-02-18 103953](https://github.com/user-attachments/assets/320ffd4c-41ee-4da5-9371-915ab1b13867)<br/>
+
 ### Update (UPDATE)
+  1. Modify a single price tag from the "products" table
+
+  ![Screenshot 2025-02-18 104251](https://github.com/user-attachments/assets/1b92daf9-db3a-4199-8ea7-2c60b36063d4)<br/>
+  ![Screenshot 2025-02-18 104419](https://github.com/user-attachments/assets/2581d50e-4ab4-4e36-9a22-c94fb70106d9)<br/>
+
+  2. Modify the customer's address with CustomerID of 1 to "Iasi"
+
+  ![Screenshot 2025-02-18 104741](https://github.com/user-attachments/assets/a9434719-fc97-4b75-8b7f-31fb139a52c7)<br/>
+  ![Screenshot 2025-02-18 104804](https://github.com/user-attachments/assets/b585a2a7-d473-4671-bc1d-4e51c19e0757)<br/>
+
 ### Delete (DELETE)
+  1. Delete the address with an AddressID of 3
+
+  ![Screenshot 2025-02-18 104947](https://github.com/user-attachments/assets/14b5b2ca-886c-4604-8d54-d11c1fd9dc9a)<br/>
+  ![Screenshot 2025-02-18 105048](https://github.com/user-attachments/assets/121fbc09-5447-4185-820d-31ff8fb2dd08)<br/>
+
+  2. Delete all products with a price tag lower than 500 lei
+
+  ![Screenshot 2025-02-18 105155](https://github.com/user-attachments/assets/c9ec273f-5172-49b1-a622-8e213a82a183)<br/>
+  ![Screenshot 2025-02-18 105223](https://github.com/user-attachments/assets/b8847476-4334-4b29-ad59-b0aea2627782)<br/>
