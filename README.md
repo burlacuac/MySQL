@@ -58,3 +58,14 @@ Tool-ul folosit: dbdesigner.net<br/>
 
   ![Screenshot 2025-02-18 105155](https://github.com/user-attachments/assets/c9ec273f-5172-49b1-a622-8e213a82a183)<br/>
   ![Screenshot 2025-02-18 105223](https://github.com/user-attachments/assets/b8847476-4334-4b29-ad59-b0aea2627782)<br/>
+
+### Join (JOIN)
+  1. Use JOIN to show the name, surname, address & city of each client who has an address (clients without an address will not be shown).
+
+  ![Screenshot 2025-02-18 112005](https://github.com/user-attachments/assets/74891c53-53d8-421c-9d89-70e3a624500f)<br/>
+  ![Screenshot 2025-02-18 112039](https://github.com/user-attachments/assets/583195fe-00af-4596-ba0a-361bd60959f9)<br/>
+
+  2. Use JOIN to show only product names of items having at least 2 units ordered.
+
+  ![Screenshot 2025-02-18 112452](https://github.com/user-attachments/assets/ad2ce0ab-4463-4e01-89c1-70c101c3bdfd)<br/>
+  ![Screenshot 2025-02-18 112519](https://github.com/user-attachments/assets/5758f005-6ac4-4ee2-8b8e-da2ff79951bc)<br/>
